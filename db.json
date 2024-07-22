@@ -1,10 +1,15 @@
 {
   "tasks": [
     {
-    "id" : 1,
-    "title": "lavar los perros",
-    "description" : "lavar los perros con el jabon azul",
-    "status" : true
+      "id": "1",
+      "title": "lavar los perros",
+      "description": "lavar los perros con el jabon azul",
+      "status": true
+    },
+    {
+      "id": "86ff",
+      "title": "lavar los gatos",
+      "description": "lavar todos los gatos con javon en polvo"
     }
   ]
 }
